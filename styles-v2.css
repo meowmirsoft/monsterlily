@@ -16,6 +16,13 @@ body {
     padding: 0;
 }
 
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0.5em auto;
+}
+
 .logo {
     display: flex;
     justify-content: center;
